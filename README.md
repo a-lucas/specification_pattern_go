@@ -1,0 +1,1 @@
+# specification_pattern_go
