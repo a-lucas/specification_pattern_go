@@ -4,7 +4,7 @@ The **Specification Pattern** is a pattern aimed for composing abstract conditio
 
 Check this amazing read by Eric Evans and Martin Fowler  https://www.martinfowler.com/apsupp/spec.pdf which explains in details the advantages of the specification pattern over DDD and other architectural methods. 
 
-You can also learn more on the wikipedia page (don't forget to donate) https://en.wikipedia.org/wiki/Architectural_pattern
+You can also learn more on the wikipedia page (don't forget to donate) https://en.wikipedia.org/wiki/Specification_pattern
 
 This small demo shows how to implement the specification pattern in Go with a technical analysis example.
 As long as a struct implement the following interface, it can be reused and composed with other structs.
